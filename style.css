@@ -1,3 +1,47 @@
 body {
-    background: blue;
+    background: rgb(29, 29, 29);
+    color: rgb(255, 255, 255);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center; 
 }
+
+h1 {
+   font-size: 4em;
+   
+   
+
+}
+
+h2 {
+    font-size: 2em;
+
+}
+
+#name {
+    margin-top: -30px;
+    text-decoration: underline;
+   
+    
+    
+}
+
+h3 {
+    font-style: italic;
+    margin-top: -25px;
+    font-size: 1em;
+   
+
+}
+
+footer p {
+    display: inline-block;
+    width: 75px;
+    margin: 50px 5px;
+    border-style:  ridge;
+    padding: 5px;
+      
+
+}
+
+
+
